@@ -29,6 +29,6 @@ Yes, when call resolve function, that promise will think "My promise has done!".
 
 then, setInterval is still calling with increase variable `i` but never bring to then argument.
 
-well. It's right. true. true.
+well. that's right. true. true.
 
 but, I want to more transfer infomation to promise object. what should I do?
