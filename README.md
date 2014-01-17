@@ -71,7 +71,9 @@ when `i` incresed 100, call `resolve` with increased value, and... well.. same a
 
 that's all.
 
-GOOD : compatibility with current promise pattern.
-BAD : looks more dirty `then` method.
+ - GOOD : 
+  - compatibility with current promise pattern.
+ - BAD :
+  - looks more dirty in `then` method.
 
 I'll think more ways.
